@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-travel-app-2021/static/css/main.2858242e.chunk.css",
-    "main.js": "/react-travel-app-2021/static/js/main.b43095a9.chunk.js",
-    "main.js.map": "/react-travel-app-2021/static/js/main.b43095a9.chunk.js.map",
-    "runtime-main.js": "/react-travel-app-2021/static/js/runtime-main.f8d3e685.js",
-    "runtime-main.js.map": "/react-travel-app-2021/static/js/runtime-main.f8d3e685.js.map",
-    "static/js/2.8cf74a3c.chunk.js": "/react-travel-app-2021/static/js/2.8cf74a3c.chunk.js",
-    "static/js/2.8cf74a3c.chunk.js.map": "/react-travel-app-2021/static/js/2.8cf74a3c.chunk.js.map",
-    "index.html": "/react-travel-app-2021/index.html",
-    "static/css/main.2858242e.chunk.css.map": "/react-travel-app-2021/static/css/main.2858242e.chunk.css.map",
-    "static/js/2.8cf74a3c.chunk.js.LICENSE.txt": "/react-travel-app-2021/static/js/2.8cf74a3c.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/react-travel-app-2021/static/media/img-8.fabdf94d.jpg",
-    "static/media/HeroSection.css": "/react-travel-app-2021/static/media/img-home.c034239e.jpg"
+    "main.css": "/react-website-pf-1/static/css/main.f1bea838.chunk.css",
+    "main.js": "/react-website-pf-1/static/js/main.b43095a9.chunk.js",
+    "main.js.map": "/react-website-pf-1/static/js/main.b43095a9.chunk.js.map",
+    "runtime-main.js": "/react-website-pf-1/static/js/runtime-main.7e5b6a29.js",
+    "runtime-main.js.map": "/react-website-pf-1/static/js/runtime-main.7e5b6a29.js.map",
+    "static/js/2.8cf74a3c.chunk.js": "/react-website-pf-1/static/js/2.8cf74a3c.chunk.js",
+    "static/js/2.8cf74a3c.chunk.js.map": "/react-website-pf-1/static/js/2.8cf74a3c.chunk.js.map",
+    "index.html": "/react-website-pf-1/index.html",
+    "static/css/main.f1bea838.chunk.css.map": "/react-website-pf-1/static/css/main.f1bea838.chunk.css.map",
+    "static/js/2.8cf74a3c.chunk.js.LICENSE.txt": "/react-website-pf-1/static/js/2.8cf74a3c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-website-pf-1/static/media/img-8.fabdf94d.jpg",
+    "static/media/HeroSection.css": "/react-website-pf-1/static/media/img-home.c034239e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8d3e685.js",
+    "static/js/runtime-main.7e5b6a29.js",
     "static/js/2.8cf74a3c.chunk.js",
-    "static/css/main.2858242e.chunk.css",
+    "static/css/main.f1bea838.chunk.css",
     "static/js/main.b43095a9.chunk.js"
   ]
 }
