@@ -32,7 +32,7 @@
 
 .nav-menu {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   text-align: center;
   width: 60vw;
   margin-right: 2rem;
